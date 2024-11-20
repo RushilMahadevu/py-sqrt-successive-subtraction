@@ -1,4 +1,4 @@
-# Manual Square Root
+# 🛠️ Method of Successive Subtraction 
 ## 🗺️ Overview
 
 This Python code implements the integer square root algorithm (also known as the integer square root or floor square root method) using an odd number series approach. The algorithm works by subtracting increasing odd numbers from the input number. The number of subtraction steps it takes to reduce the input to zero (or just below zero) corresponds to the integer square root of the number. This is a simple integer square root algorithm that works by iterative subtraction of odd numbers, avoiding floating-point calculations.
